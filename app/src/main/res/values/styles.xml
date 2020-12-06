@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="CalculatorButton" parent="@android:style/Widget.Button">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#ffcacaca</item>
+        <item name="background">@drawable/button</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="colorAccent">#3A3A3A</item>
+
+    </style>
+
+</resources>
